@@ -131,3 +131,11 @@ http://50.7.69.66/COLORS_TAMIL/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="",Star Vijay 
 http://50.7.69.66/test/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="",Asianet
+http://50.7.69.66/asianet/index.m3u8
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="",Surya
+http://50.7.69.66/surya/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="",Sun
+http://50.7.69.66/sun/index.m3u8
