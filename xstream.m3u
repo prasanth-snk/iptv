@@ -110,3 +110,6 @@ http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
 http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
 #EXTINF:-1 tvg-id="XYPlus.uk" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xy-plus-bg.png" group-title="XXX",XY Plus
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Testing",Testing
+https://jiotvmblive.cdn.jio.com/packagerx_mpd1/Jio_Cricket_English_HLS/Jio_Cricket_English_MED.m3u8?__hdnea__=st=1677567682~exp=1677571282~acl=/packagerx_mpd1/Jio_Cricket_English_HLS/*~hmac=5f4f897d8a9f813a79eb0fcb4abcf7b3c19a095e5c099399ecb2b88880631126
