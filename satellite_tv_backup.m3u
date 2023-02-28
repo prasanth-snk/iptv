@@ -1,0 +1,52 @@
+#EXTM3U
+//Tamil
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-id="",Zee Tamil 
+http://212.224.84.217:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" tvg-id="",Jaya max
+http://212.224.84.217:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-id="",Star Vijay HD
+http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Vijay super
+http://212.224.84.217:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-id="",Jaya TV HD
+http://212.224.84.217:2200/R-EX/TAMIL_JAYA_TV_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="http://tugapt.com/picons/suntvhd.png",Sun TV HD
+http://212.224.84.217:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="",Sun Music HD
+http://212.224.84.217:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Movie" tvg-logo="" tvg-id="",KTV HD
+http://212.224.84.217:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo=https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png tvg-id="",RAJ digital plus 
+http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6701/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-id="",Raj TV
+http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6700/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" tvg-id="",Raj Musix
+http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6702/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-id="",Jaya TV 
+http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6696/index.m3u8
+
+
+
+//Malayalam
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="Entertainment",Asianet HD
+http://212.224.84.217:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Surya HD
+http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Movies",Surya Movies
+http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee Keralam HD
+http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
