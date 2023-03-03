@@ -17,3 +17,7 @@ http://watchtvs.live/getm3u8/953/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kannur One 
 http://watchtvs.live/getm3u8/1514/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Test
+https://jiotvmblive.cdn.jio.com/packagerx_mpd1/Jio_Cricket_English_HLS/Jio_Cricket_English.m3u8?__hdnea__=st=1677842203~exp=1677845803~acl=/packagerx_mpd1/Jio_Cricket_English_HLS/*~hmac=6cbf1a316e335a48170b04926d5d1ffd9a534bb44ed6dfa0e101ba6b95f588f2
