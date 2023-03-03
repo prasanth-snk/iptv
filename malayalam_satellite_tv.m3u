@@ -2,7 +2,7 @@
 
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
-http://watchtvs.xyz:3500/getm3u8/144/master.m3u8
+http://watchtvs.live/getm3u8/144/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama
 https://watchtvs.live/play.html?id=648&ch=Mazhavil_Manorama.png&type=webview
