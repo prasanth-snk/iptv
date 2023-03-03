@@ -1,23 +1,19 @@
 #EXTM3U
 
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD 
-http://watchtvs.live/getm3u8/144/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama
-https://watchtvs.live/play.html?id=648&ch=Mazhavil_Manorama.png&type=webview
+http://watchtvs.live/getm3u8/648/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Amrita TV
-https://watchtvs.live/play.html?id=723&ch=Amrita_TV.png&type=webview
+http://watchtvs.live/getm3u8/723/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kairali TV
-https://watchtvs.live/play.html?id=710&ch=Kairali_TV.png&type=webview
+http://watchtvs.live/getm3u8/710/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kairali WE
-https://watchtvs.live/play.html?id=731&ch=Kairali_WE_TV.png&type=webview
+http://watchtvs.live/getm3u8/731/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Propex 
-https://watchtvs.live/play.html?id=953&ch=Propex_TV.png&type=webview
+http://watchtvs.live/getm3u8/953/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kannur One 
-https://watchtvs.live/play.html?id=1514&ch=Kannur_one.png&type=webview
+http://watchtvs.live/getm3u8/1514/master.m3u8
