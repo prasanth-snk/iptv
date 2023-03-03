@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Entertainment",Jio Cricket HD
-http://smiletv.live:1300/getm3u8/648/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama
 https://watchtvs.live/play.html?id=648&ch=Mazhavil_Manorama.png&type=webview
 
