@@ -15,7 +15,7 @@
         },
         {
             "type": "Tamil Satellite",
-            "url": "https://prasanth-snk.github.io/iptv/tamil_satellite_tv.m3u"
+            "url": "https://prasanth-snk.github.io/iptv/tamil_premium.m3u"
         },
         {
             "type": "Tamil Local",
@@ -39,7 +39,7 @@
         },
         {
             "type": "Sports",
-            "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
+            "url": "https://prasanth-snk.github.io/iptv/sports_premium.m3u"
         },
         {
             "type": "UHD",
