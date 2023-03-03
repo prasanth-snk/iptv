@@ -17,3 +17,6 @@ http://50.7.69.66/raj_tv/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Star Vijay 
 http://50.7.69.66/test/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil_Manorama
+https://watchtvs.live/play.html?id=648&ch=Mazhavil_Manorama.png&type=webview
