@@ -1,23 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Mazhavil Manorama
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment",Mazhavil Manorama
 http://watchtvs.live/getm3u8/648/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Amrita TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
 http://watchtvs.live/getm3u8/723/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kairali TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV
 http://watchtvs.live/getm3u8/710/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kairali WE
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment",Kairali WE
 http://watchtvs.live/getm3u8/731/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Propex 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" group-title="Entertainment",Propex 
 http://watchtvs.live/getm3u8/953/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Kannur One 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Entertainment",Kannur One 
 http://watchtvs.live/getm3u8/1514/master.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music",Raj Music Malayalam
+http://watchtvs.live/getm3u8/650/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Test
-https://jiotvmblive.cdn.jio.com/packagerx_mpd1/Jio_Cricket_English_HLS/Jio_Cricket_English.m3u8?__hdnea__=st=1677842203~exp=1677845803~acl=/packagerx_mpd1/Jio_Cricket_English_HLS/*~hmac=6cbf1a316e335a48170b04926d5d1ffd9a534bb44ed6dfa0e101ba6b95f588f2
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Entertainment",Nick Malayalam
+http://watchtvs.live/getm3u8/1340/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Entertainment",Sonic Malayalam
+http://watchtvs.live/getm3u8/1344/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Entertainment",Malanadu TV
+http://watchtvs.live/getm3u8/1552/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="Entertainment",Ken TV Keralam
+http://watchtvs.live/getm3u8/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" group-title="Entertainment",BVTV
+http://watchtvs.live/getm3u8/1690/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Entertainment",Adipolli
+http://watchtvs.live/getm3u8/2039/master.m3u8
