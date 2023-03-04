@@ -1,58 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Zee Tamil 
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-id="",Zee Tamil 
 http://watchtvs.live/getm3u8/628/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Colors Tamil 
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-id="",Colors Tamil 
 http://watchtvs.live/getm3u8/1371/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Jaya Max 
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" tvg-id="",Jaya Max 
 http://watchtvs.live/getm3u8/420/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Zee Thirai 
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-id="",Zee Thirai 
 http://watchtvs.live/getm3u8/2256/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Nick
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" tvg-id="",Nick Tamil
 http://watchtvs.live/getm3u8/546/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Pogo
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-id="",Pogo
 http://watchtvs.live/getm3u8/542/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",CN
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" tvg-id="",CN
 http://watchtvs.live/getm3u8/817/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Discovery Tamil
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" tvg-id="",Discovery Tamil
 http://watchtvs.live/getm3u8/569/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",History Tamil
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-id="",History Tamil
 http://watchtvs.live/getm3u8/579/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Sony BBC Earth Tamil
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" tvg-id="",Sony BBC Earth Tamil
 http://watchtvs.live/getm3u8/853/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Jaya tv
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-id="",Jaya tv
 http://watchtvs.live/getm3u8/419/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Puthuyugam
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-id="",Puthuyugam
 http://watchtvs.live/getm3u8/824/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Raj TV
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-id="",Raj TV
 http://watchtvs.live/getm3u8/707/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Makkal TV
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" tvg-id="",Makkal TV
 http://watchtvs.live/getm3u8/708/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Captain TV
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" tvg-id="",Captain TV
 http://watchtvs.live/getm3u8/711/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Podhigai TV
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-id="",Podhigai TV
 http://watchtvs.live/getm3u8/726/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",J Movies
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" tvg-id="",J Movies
 http://watchtvs.live/getm3u8/417/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Raj Digital Plus
+#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-id="",Raj Digital Plus
 http://watchtvs.live/getm3u8/683/master.m3u8
 
-#EXTINF:-1 group-title="Web_Entertainment" tvg-logo="" tvg-id="",Raj Digital Plus
-http://watchtvs.live/getm3u8/683/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Sun life
+http://50.7.69.66/sun_life/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Star Vijay 
+http://50.7.69.66/test/index.m3u8
