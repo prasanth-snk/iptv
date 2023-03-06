@@ -38,3 +38,9 @@ http://watchtvs.live/getm3u8/1690/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Entertainment",Adipolli
 http://watchtvs.live/getm3u8/2039/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Asianet
+http://watchtvs.live/getm3u8/443/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",Asianet Plus
+http://watchtvs.live/getm3u8/181/master.m3u8
