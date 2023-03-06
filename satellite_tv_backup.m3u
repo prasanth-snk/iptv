@@ -50,3 +50,22 @@ http://212.224.84.217:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=?toke
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://snoidcdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee Keralam HD
 http://212.224.84.217:2200/R-EX/MALAYALAM_ZEE_KERALAM_HD-in/index.m3u8?token=?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3JnenNo
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Zee thirai 
+http://50.7.69.66/Zee_Thirai/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Colors tamil 
+http://50.7.69.66/COLORS_TAMIL/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Sun life
+http://50.7.69.66/sun_life/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Pirai TV 
+http://50.7.69.66/pirai/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",RAJ TV 
+http://50.7.69.66/raj_tv/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Star Vijay 
+http://50.7.69.66/test/index.m3u8
