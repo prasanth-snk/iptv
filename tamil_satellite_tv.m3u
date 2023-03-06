@@ -54,6 +54,9 @@ http://watchtvs.live/getm3u8/417/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-id="",Raj Digital Plus
 http://watchtvs.live/getm3u8/683/master.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-id="",Star Vijay
+http://watchtvs.live/getm3u8/368/master.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Sun life
 http://50.7.69.66/sun_life/index.m3u8
 
