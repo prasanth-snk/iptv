@@ -10,3 +10,17 @@ http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
 https://media1.radioservers.biz:1936/sooriyantv/sooriyantv/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="",Tamil vision tv 
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo=https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png tvg-id="",RAJ digital plus 
+http://zyamka.akadatel.com/iptv/6KPA5QMR4XYRDA/6701/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-id="",Raj TV
+http://zyamka.akadatel.com/iptv/6KPA5QMR4XYRDA/6700/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" tvg-id="",Raj Musix
+http://zyamka.akadatel.com/iptv/6KPA5QMR4XYRDA/6702/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-id="",Jaya TV 
+http://zyamka.akadatel.com/iptv/6KPA5QMR4XYRDA/6696/index.m3u8
