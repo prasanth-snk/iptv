@@ -3,7 +3,7 @@
     "menu": [
         {
             "type": "Malayalam IPTV",
-            "url": "https://prasanth-snk.github.io/iptv/malayalam.m3u"
+            "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
         },
         {
             "type": "Malayalam Satellite",
@@ -15,7 +15,7 @@
         },
         {
             "type": "Tamil IPTV",
-            "url": "https://prasanth-snk.github.io/iptv/tamil_iptv.m3u"
+            "url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
         },
         {
             "type": "Tamil Satellite",
