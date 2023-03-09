@@ -38,16 +38,28 @@
             "url": "https://prasanth-snk.github.io/iptv/testing.m3u"
         },
         {
-            "type": "Language",
-            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
-        },
-        {
             "type": "Sports",
             "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
         },
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
+        },
+        {
+            "type": "Category",
+            "url": "https://iptv-org.github.io/iptv/index.category.m3u"
+        },
+        {
+            "type": "Country",
+            "url": "https://iptv-org.github.io/iptv/index.country.m3u"
+        },
+        {
+            "type": "Language",
+            "url": "https://iptv-org.github.io/iptv/index.language.m3u"
+        },
+        {
+            "type": "Region",
+            "url": "https://iptv-org.github.io/iptv/index.region.m3u"
         },
         {
             "type": "UHD",
