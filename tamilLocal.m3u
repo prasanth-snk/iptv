@@ -782,3 +782,27 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1672457248_mtv.jpg" group-title="Local",M TV
 http://bmlive.net:8000/VIJAYARUL/mtvmelur/bms.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JxLcHa3FnVKUjTXeizAR_SNBDwbF0RPhMZiOq7QeIiHBAMvE1vWwhq0pEFBetfnnjYug=w240-h480-rw" group-title="Kids",KK TV
+http://wmoy8ngoy2a7-hls-live.5centscdn.com/kktamiltv/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/H7kNzJXx6X3Cjge9pY2CsOPPIbIqcLxfoK4__7hheXRoAQPRdZNepG0vyst8fvwGE7g=w480-h960-rw" group-title="Testing",BOSS TV
+http://183.87.51.10:80/hls/vasantv.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng39Lc9lp50XhGc3zlZAryo9__95auw2qKHSFkZ_g=s88-c-k-c0x00ffffff-no-rj" group-title="Local",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Local",Tamilan
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="Local",Web TV
+https://account21.livebox.co.in/webadugatvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local",MAYA TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local",Neem TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
