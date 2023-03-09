@@ -770,3 +770,15 @@ http://server1.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="Local",MALAR TV UHD 
 http://malartv.phoenixcreations.online:1935/live/malartv/chunklist_w490883281.m3u8
+
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669978029_stv.jpg" group-title="Local",S TV
+http://bmlive.net:8000/karnan/stvhd/bms.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Local",Visaka TV  
+http://live.singamcloud.in/visakatv/visakatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="Local",Vinayaga Music
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1672457248_mtv.jpg" group-title="Local",M TV
+http://bmlive.net:8000/VIJAYARUL/mtvmelur/bms.m3u8
