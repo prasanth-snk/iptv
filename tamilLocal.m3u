@@ -155,13 +155,13 @@ http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
 #EXTINF:-1  group-title="Music" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Music
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/153.png" group-title="Local",Udhyam TV Nagarcoil
+#EXTINF:-1 tvg-logo="https://tavapi.inditechman.com/extras/images/153.png" group-title="Local",Udhyam TV Nagarcoil
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
 
-#EXTINF: -1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png" group-title="Local",Raagam HD
+#EXTINF:-1 tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Ragam-TV.png" group-title="Local",Raagam HD
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 
-#EXTINF: -1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="News",Sathiyam TV
+#EXTINF:-1 tvg-logo="https://tavapi.inditechman.com/extras/images/1602589120_1598779936_sathiyamlogo.png" group-title="News",Sathiyam TV
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive/upload/1670026189_rgtv.png" group-title="Local",RG TV
