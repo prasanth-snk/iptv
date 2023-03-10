@@ -146,13 +146,13 @@ https://askmedia.livebox.co.in/DanNewshls/3.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local",king
 http://account26.livebox.co.in/kinghls/live.m3u8
 
-#EXTINF:-1  group-title="Local" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Tamil
+#EXTINF:-1 group-title="Local" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Tamil
 http://singamcloud.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi hollywood
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi hollywood
 http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
 
-#EXTINF:-1  group-title="Music" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Music
+#EXTINF:-1 group-title="Music" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi Music
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavapi.inditechman.com/extras/images/153.png" group-title="Local",Udhyam TV Nagarcoil
@@ -257,7 +257,7 @@ http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music",JR TV
 https://live1.sscloud7.com/jrtv.m3u8
 
-#EXTINF:-1  group-title="Local" ,JAYAM TV 
+#EXTINF:-1 group-title="Local" ,JAYAM TV 
 http://hdserver.singamcloud.in:1935/jayamtvs/jayamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",SKY TV 
@@ -554,7 +554,6 @@ http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837"  group-title="Local",AMMA TV LOCAL
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ax8sHwjn-Xg_KLYck7-HrFuUWOJRJoJ-UdLmBwF0mvqZXOnAiLRFX1vdo6wmayV9kA=w480-h960-rw" group-title="Local",Anandam shine TV 
 http://shinestream.in:1935/anandamtv/svc/playlist.m3u8
 
@@ -639,7 +638,7 @@ http://indiamatrix.in/nilatv/nilatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8gmjMZ/MPTV-TV.png" group-title="Local",MPTV TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1fWnMJq/VEL-TV.png" group-title="Local",VEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fWnMJq/VEL-TV.png" group-title="Local",VEL TV
 https://rasi.iptelevision.in/hls/veltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THz9mSG/SELFIE-TV.png" group-title="Local",SELFIE TV
@@ -789,7 +788,7 @@ http://wmoy8ngoy2a7-hls-live.5centscdn.com/kktamiltv/livetv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/H7kNzJXx6X3Cjge9pY2CsOPPIbIqcLxfoK4__7hheXRoAQPRdZNepG0vyst8fvwGE7g=w480-h960-rw" group-title="Local",BOSS TV
 http://183.87.51.10:80/hls/vasantv.m3u8
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng39Lc9lp50XhGc3zlZAryo9__95auw2qKHSFkZ_g=s88-c-k-c0x00ffffff-no-rj" group-title="Local",Moon TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng39Lc9lp50XhGc3zlZAryo9__95auw2qKHSFkZ_g=s88-c-k-c0x00ffffff-no-rj" group-title="Local",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Local",Tamilan
