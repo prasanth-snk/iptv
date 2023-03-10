@@ -549,7 +549,7 @@ http://183.87.51.10/hls/crstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/s3DFWsZ/DJEYAM-TV.png" group-title="Local",DJEYAM TV 
 https://stream.sscloud7.com/hls/djeyam.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" " group-title="Local",MONTAMIL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Local",MONTAMIL HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" group-title="Local",AMMA TV LOCAL
@@ -693,13 +693,13 @@ http://nextgeninfotech.ddns.net:8080/pink/pink.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/qmCI2Sg4AiONasVOWjdiemrX_dXykpzXvYvjdAHdU9ZdFbQiCnuRa7-iZC8vq_KIQQ=w240-h480-rw" group-title="Local",OM Devotional TV
 http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" " group-title="Local",Royal HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" group-title="Local",Royal HD
 http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" " group-title="Local",DSR TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" group-title="Local",DSR TV
 http://bmlive.net:8000/dsrchannel/dino/bms.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" " group-title="Local",MASS TAMIL HD TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" group-title="Local",MASS TAMIL HD TV
 http://tv2.massstream.net/Masstv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/8MKyZgBiyF45zhiQ2lgWRSt2aQlewF1sThE2mdDstYPnDwQ8uGYAOq_PawaeKJqJk9o=w240-h480-rw" group-title="Local",SAI Network TV
