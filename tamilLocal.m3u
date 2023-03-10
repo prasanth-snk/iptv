@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",MKP tv
 http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 
@@ -345,7 +346,7 @@ http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அசோகா
-http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="",அபிநயா மியூசிக்
 http://singamcloud.in/purpletv/purpletv/index.m3u8
