@@ -1,0 +1,4 @@
+node_modules
+.env
+*.jiotv
+playlist.m3u8
