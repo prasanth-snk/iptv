@@ -15,28 +15,28 @@ http://live.singamcloud.in/nvision/nvision/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment",Mazhavil Manorama
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/648/master.m3u8
+http://watchtvs.live/getm3u8/648/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/723/master.m3u8
+http://watchtvs.live/getm3u8/723/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/710/master.m3u8
+http://watchtvs.live/getm3u8/710/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment",Kairali WE
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/731/master.m3u8
+http://watchtvs.live/getm3u8/731/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music",Raj Music Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/650/master.m3u8
+http://watchtvs.live/getm3u8/650/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Entertainment",Nick Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1340/master.m3u8
+http://watchtvs.live/getm3u8/1340/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Entertainment",Sonic Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1344/master.m3u8
+http://watchtvs.live/getm3u8/1344/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Entertainment",Malanadu TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1552/master.m3u8
+http://watchtvs.live/getm3u8/1552/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="Entertainment",Ken TV Keralam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1606/master.m3u8
+http://watchtvs.live/getm3u8/1606/master.m3u8
