@@ -2,6 +2,7 @@
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-id="",Zee Tamil 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/628/master.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-id="",Colors Tamil 
 http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1371/master.m3u8
 
