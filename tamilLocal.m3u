@@ -827,3 +827,6 @@ https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EET TV" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="Local",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live Royal TV" tvg-logo="https://play-lh.googleusercontent.com/wmEtgSjC0zsvTSsw-OHXy_qdqi5GWXhP5EYhrpxlv-jVqk3Ji-M2keTBVz4Hs_duzD0=w240-h480-rw" group-title="Local",Live Royal TV 
+https://live.sscloud7.com/liveroyaltv.m3u8
