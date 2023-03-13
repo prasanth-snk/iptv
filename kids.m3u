@@ -1,269 +1,343 @@
 #EXTM3U
 
-#EXTINF:-1 ,Discovery Bangla HD
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Bangla HD
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 
-#EXTINF:-1 ,Animal Planet
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
-#EXTINF:-1 ,Discovery English
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery English
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 
-#EXTINF:-1 ,Rangeen TV
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
-#EXTINF:-1 ,Discovery Kids
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Kids
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 ,Discovery
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 
-#EXTINF:-1 ,National Geographic
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",National Geographic
 http://starshare.live:8080/live/203837773/0293938883/9394.m3u8
 
-#EXTINF:-1 ,Pogo
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Pogo
 http://starshare.org:8080/live/gxc733/sxk877/1918.m3u8
 
-#EXTINF:-1 ,Nick
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick
 http://starshare.org:8080/live/gxc733/sxk877/205.m3u8
 
-#EXTINF:-1 ,Nick Jr.
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Jr.
 http://starshare.org:8080/live/gxc733/sxk877/206.m3u8
 
-#EXTINF:-1 ,ANIPLUS
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",ANIPLUS
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 ,MY KIDZ
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 ,TOONZ KIDZ
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TOONZ KIDZ
 http://210.210.155.37/x6bnqe/s/s14/index.m3u8
 
-#EXTINF:-1 ,Nick
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93063.ts
 
-#EXTINF:-1 ,Nick Jr.
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
 
-#EXTINF:-1 ,Nick Toons
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Toons
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
 
-#EXTINF:-1 ,Animal Planet
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
 
-#EXTINF:-1 ,Discovery Channel
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
 
-#EXTINF:-1 ,Discovery ID
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery ID
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93029.ts
 
-#EXTINF:-1 ,Discovery Science
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Science
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
 
-#EXTINF:-1 ,Disney Channel
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Disney Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 
-#EXTINF:-1 ,HappyKidsJunior
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",HappyKidsJunior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,HappyKids
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",HappyKids
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,discoverysciin
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",discoverysciin
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 
-#EXTINF:-1 ,Net Geo wild
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Net Geo wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-1 ,Discovery kids
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery kids
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
 
-#EXTINF:-1 ,BOOMARANG
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",BOOMARANG
 http://iptv.prosto.tv:7000/ch208/video.m3u8
 
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 ,Cartoon Network RU
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 
-#EXTINF:-1 ,Kabillion
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
-#EXTINF:-1 ,Nick
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
-#EXTINF:-1 ,NICK Jr. DORA TV
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICK Jr. DORA TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 
-#EXTINF:-1 ,O Kids Movies
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",O Kids Movies
 http://51.210.199.12/hls/stream.m3u8
 
-#EXTINF:-1 ,PBS KIDS
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 ,Spacetoon
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 ,SPACETOON KIDS
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 ,nick Indo HD
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",nick Indo HD
 http://202.150.161.254:4000/play/a00a/index.m3u8
 
-#EXTINF:-1 ,nickjr Indo HD
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",nickjr Indo HD
 http://202.150.161.254:4000/play/a00b/index.m3u8
 
-#EXTINF:-1 ,DISNEY
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY
 http://208.86.19.13:81/14.stream/index.m3u8
 
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY CHANNEL
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862661&extension=ts&play_token=351eRThFs2
-#EXTINF:-1 ,Nick
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master_5.m3u8
-#EXTINF:-1 ,Nick Junior
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Junior
 http://185.59.223.102:8080/disney/index.m3u8
-#EXTINF:-1 ,Xlpore English(BD)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,Nasa TV(BD3)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nasa TV(BD3)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,VARENDRA TV
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",VARENDRA TV
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1 ,Cartoon TV
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Cartoon TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Food
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Food
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Nasa TV UHD 4K
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nasa TV UHD 4K
 http://149.62.177.99:8004/play/a00t/index.m3u8
-#EXTINF:-1 ,ChuChu Cortoon
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",ChuChu Cortoon
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
-#EXTINF:-1 ,HotBird 4K1
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",HotBird 4K1
 http://149.62.177.99:8004/play/a00s/index.m3u8
-#EXTINF:-1 ,Clarity 4K
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ,National Geographic Wild SD
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",National Geographic Wild SD
 http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1 ,HappyKids Junior
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 ,ZOOMOO
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Nick Pluto
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
-#EXTINF:-1 ,Nick Jr. Dora TV
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
-#EXTINF:-1 ,Nick Jr. Pluto
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Jr. Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
-#EXTINF:-1 ,Toon Googles
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Toon Googles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:-1 ,CArtoon Jr
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",CArtoon Jr
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
-#EXTINF:-1 ,BABY FIRST
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",BABY FIRST
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418035
-#EXTINF:-1 ,BOOMERANG
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",BOOMERANG
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418036
-#EXTINF:-1 ,CARTOON NETWORK
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",CARTOON NETWORK
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418037
-#EXTINF:-1 ,Cartoon Network (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Cartoon Network (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419270
-#EXTINF:-1 ,DISNEY CHANNEL
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY CHANNEL
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418033
-#EXTINF:-1 ,Disney Channel (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Disney Channel (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419271
-#EXTINF:-1 ,DISNEY JR.
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY JR.
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418042
-#EXTINF:-1 ,Disney Junior (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Disney Junior (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419272
-#EXTINF:-1 ,DISNEY XD
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY XD
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418034
-#EXTINF:-1 ,Disney XD (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Disney XD (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419273
-#EXTINF:-1 ,Nick Jr (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nick Jr (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419274
-#EXTINF:-1 ,NICKELODEON
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICKELODEON
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418039
-#EXTINF:-1 ,Nickelodeon (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nickelodeon (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419275
-#EXTINF:-1 ,NICKTOONS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICKTOONS
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418032
-#EXTINF:-1 ,Nicktoons (West)
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Nicktoons (West)
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419276
-#EXTINF:-1 ,PBS KIDS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",PBS KIDS
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418040
-#EXTINF:-1 ,TEENNICK
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TEENNICK
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418030
-#EXTINF:-1 ,THE LEGO CHANNEL
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",THE LEGO CHANNEL
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418044
-#EXTINF:-1 ,UNIVERSAL KIDS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",UNIVERSAL KIDS
 http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418038
-#EXTINF:-1 ,DISNEY JUNIOR
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY JUNIOR
 http://tvstarlife.com:25461/live/cesar/cesar123/220.m3u8
-#EXTINF:-1 ,Cartoonito
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Cartoonito
 http://tvstarlife.com:25461/live/cesar/cesar123/207.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY CHANNEL
 http://tvstarlife.com:25461/live/cesar/cesar123/192.m3u8
-#EXTINF:-1 ,DISNEY JUNIOR
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",DISNEY JUNIOR
 http://tvstarlife.com:25461/live/cesar/cesar123/194.m3u8
-#EXTINF:-1 ,NICK
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICK
 http://tvstarlife.com:25461/live/cesar/cesar123/198.m3u8
-#EXTINF:-1 ,NICK JR
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICK JR
 http://tvstarlife.com:25461/live/cesar/cesar123/199.m3u8
-#EXTINF:-1 ,FNICK JR
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",FNICK JR
 http://tvstarlife.com:25461/live/cesar/cesar123/200.m3u8
-#EXTINF:-1 ,NICKTOONS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICKTOONS
 http://tvstarlife.com:25461/live/cesar/cesar123/201.m3u8
-#EXTINF:-1 ,NICKTOONS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",NICKTOONS
 http://tvstarlife.com:25461/live/cesar/cesar123/203.m3u8
-#EXTINF:-1 ,TOONCAST
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TOONCAST
 http://tvstarlife.com:25461/live/cesar/cesar123/27288.m3u8
-#EXTINF:-1 ,Baby First
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Baby First
 http://tvstarlife.com:25461/live/cesar/cesar123/27898.m3u8
-#EXTINF:-1 ,XPLORE
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",XPLORE
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Horse and Country
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Law and Crime Network
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Law and Crime Network
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,CGTN
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
-#EXTINF:-1 ,CGTN Documentary
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
-#EXTINF:-1 ,Wild EARTH
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,Wow Kids
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
-#EXTINF:-1 ,PBS KIDS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 ,Discovery Bangla HD
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 ,Al Istiqama TV
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 ,TCT Kids
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TCT Kids
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1 ,TV
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 ,Animal Planet
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Animal Planet
 http://190.60.37.69:8015/play/a01l/index.m3u8
-#EXTINF:-1 ,Discovery ID
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery ID
 http://190.60.37.69:8015/play/a02d/index.m3u8
-#EXTINF:-1 ,Discovery Kids
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Discovery Kids
 http://190.60.37.69:8015/play/a00y/index.m3u8
-#EXTINF:-1 ,CGTN Documentary
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 ,Chicken Soup For The Soul
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Chicken Soup For The Soul
 https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
-#EXTINF:-1 ,EBS Kids
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,Lego Channel
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",Lego Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,TAMbIP
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",TAMbIP
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 ,The Craftistry
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",The Craftistry
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,WOW Kidz
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",WOW Kidz
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin//master/chunklist.m3u8
-#EXTINF:-1 ,AKARAM KIDS
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",AKARAM KIDS
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 ,SONIC.BANGLA
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",SONIC.BANGLA
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862986&extension=ts&play_token=tkt27uLoQq
-#EXTINF:-1 ,HUNGAMA
+
+#EXTINF:-1 group-title="Others" tvg-logo="" tvg-id="",HUNGAMA
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862674&extension=ts&play_token=mJA3sc0GFl
