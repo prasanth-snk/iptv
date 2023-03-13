@@ -1,2 +1,3 @@
 #EXTM3U
-
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
+http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/165/master.m3u8
