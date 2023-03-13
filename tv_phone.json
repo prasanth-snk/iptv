@@ -5,7 +5,6 @@
             "type": "Malayalam IPTV",
             "url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
         },
-        
         {
             "type": "Malayalam News",
             "url": "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u"
@@ -18,7 +17,6 @@
             "type": "Tamil Satellite",
             "url": "https://prasanth-snk.github.io/iptv/tamil_satellite_tv.m3u"
         },
-       
         {
             "type": "Tamil Local",
             "url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
@@ -27,7 +25,7 @@
             "type": "Tamil News",
             "url": "https://prasanth-snk.github.io/youtube_m3u/tamil.m3u"
         },
-{
+        {
             "type": "Testing",
             "url": "https://prasanth-snk.github.io/iptv/testing.m3u"
         },
@@ -39,7 +37,6 @@
             "type": "Testing",
             "url": "https://prasanth-snk.github.io/iptv/testing.m3u"
         },
-        
         {
             "type": "Hindi",
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
