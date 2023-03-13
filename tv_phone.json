@@ -49,6 +49,10 @@
             "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
         },
         {
+            "type": "Others",
+            "url": "https://prasanth-snk.github.io/iptv/kids.m3u"
+        },
+        {
             "type": "Category",
             "url": "https://iptv-org.github.io/iptv/index.category.m3u"
         },

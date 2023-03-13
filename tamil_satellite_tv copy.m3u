@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-id="",Zee Tamil 
-http://watchtvs.live/getm3u8/628/master.m3u8__cf_chl_tk=QFDnLMQ9aAba5sMv6yZz5FEcHf5iTFlXp.4GrBindlQ-1678634677-0-gaNycGzNCns
+http://watchtvs.live/getm3u8/628/master.m3u8?__cf_chl_tk=QFDnLMQ9aAba5sMv6yZz5FEcHf5iTFlXp.4GrBindlQ-1678634677-0-gaNycGzNCns
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-id="",Colors Tamil 
 http://watchtvs.live/getm3u8/1371/master.m3u8
