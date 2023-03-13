@@ -45,6 +45,10 @@
             "url": "https://iptv-org.github.io/iptv/languages/hin.m3u"
         },
         {
+            "type": "Sports",
+            "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
+        },
+        {
             "type": "Category",
             "url": "https://iptv-org.github.io/iptv/index.category.m3u"
         },
