@@ -38,6 +38,10 @@
             "url": "https://prasanth-snk.github.io/iptv/sports.m3u"
         },
         {
+            "type": "Others",
+            "url": "https://prasanth-snk.github.io/iptv/kids.m3u"
+        },
+        {
             "type": "UHD",
             "url": "https://prasanth-snk.github.io/iptv/uhd.json"
         }
