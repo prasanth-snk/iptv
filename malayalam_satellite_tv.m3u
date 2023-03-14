@@ -9,34 +9,35 @@ https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Music",Sky music
 https://singamcloud.in/skytv/skytv/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Entertainment",N Vision
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
 http://live.singamcloud.in/nvision/nvision/index.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="J-Entertainment",Flowers
+http://watchtvs.live/getm3u8/634/master.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="J-Entertainment",Mazhavil Manorama
+http://watchtvs.live/getm3u8/648/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Entertainment",Mazhavil Manorama
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/648/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="J-Entertainment",Amrita TV
+http://watchtvs.live/getm3u8/723/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/723/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="J-Entertainment",Kairali TV
+http://watchtvs.live/getm3u8/710/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/710/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment",Kairali WE
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/731/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="J-Entertainment",Kairali WE
+http://watchtvs.live/getm3u8/731/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music",Raj Music Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/650/master.m3u8
+http://watchtvs.live/getm3u8/650/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Entertainment",Nick Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1340/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="J-Entertainment",Nick Malayalam
+http://watchtvs.live/getm3u8/1340/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Entertainment",Sonic Malayalam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1344/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="J-Entertainment",Sonic Malayalam
+http://watchtvs.live/getm3u8/1344/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Entertainment",Malanadu TV
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1552/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="J-Entertainment",Malanadu TV
+http://watchtvs.live/getm3u8/1552/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="Entertainment",Ken TV Keralam
-http://hardcore-keldysh.64-227-150-121.plesk.page:80/getm3u8/1606/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="J-Entertainment",Ken TV Keralam
+http://watchtvs.live/getm3u8/1606/master.m3u8
