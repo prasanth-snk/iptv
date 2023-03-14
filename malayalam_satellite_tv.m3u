@@ -12,6 +12,12 @@ https://singamcloud.in/skytv/skytv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
 http://live.singamcloud.in/nvision/nvision/index.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="J-Entertainment",DD Malayalam
+http://watchtvs.live/getm3u8/699/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="J-Entertainment",Kaumudy TV
+http://watchtvs.live/getm3u8/563/master.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="J-Entertainment",Flowers
 http://watchtvs.live/getm3u8/634/master.m3u8
 
@@ -28,6 +34,9 @@ http://watchtvs.live/getm3u8/710/master.m3u8
 http://watchtvs.live/getm3u8/731/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Music",Raj Music Malayalam
+http://watchtvs.live/getm3u8/739/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="Music",Raj News
 http://watchtvs.live/getm3u8/650/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="J-Entertainment",Nick Malayalam
