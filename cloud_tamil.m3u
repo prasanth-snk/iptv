@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616159247_icon.png" group-title="CLOUD TAMIL PLC " , SINGAM TV
+http://singamcloud.in:1935/singamtv/singamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616232479_kalaiisai.png" group-title="CLOUD TAMIL Music" , Kalai ISAI
+http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="CLOUD TAMIL PLC " , Kalai Chinima
+http://singamcloud.in:1935/kalaicinema/kalaicinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png" group-title="CLOUDTAMIL RASI NETWORK" , Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187910_yupp.png" group-title="CLOUDTAMIL Satellite Channel" , Yupp thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305845_haritv.png" group-title="CLOUD TAMIL PLC " , Hari Tv
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616318924_smcvtv.png" group-title="CLOUD TAMIL PLC " , SMCV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616319770_vaniplus.png" group-title="CLOUD TAMIL PLC " , Vani plus
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616922602_crstv.png" group-title="CLOUD TAMIL PLC " , CRS TV
+http://live.singamcloud.in:1935/crstv/crstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616306145_salemmerchi.png" group-title="CLOUD TAMIL PLC " , Salem Merchi TV
+http://stream.singamcloud.in:1935/salammerchitv/salammerchitv/playlist.m3u8

@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ext" group-title="News",Malabar News
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Undefined",Next TV Malabar
+https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="Music",Sky music
+https://singamcloud.in/skytv/skytv/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
+http://live.singamcloud.in/nvision/nvision/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785" group-title="Entertainment",Zee Kerala HD
+https://9dc1.short.gy/Zee_Kerala_HD.m3u8
+
+#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"7y1GmDcEAwGPQb+2s/0Ufg", "kid":"r6EW3eEaWwiCQEIwhUYWvg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="292" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Asianet HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
+
+#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"R8x/ZEsvHbcrpht5dUgbIw", "kid":"+NisDIBAVA2kpXpaLVmnWQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="294" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" ,Asianet Plus
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd

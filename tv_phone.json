@@ -1,0 +1,20 @@
+{
+	"addProp": "show",
+	"menu": [{
+			"type": "Malayalam IPTV",
+			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+		},
+		{
+			"type": "Tamil Local",
+			"url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
+		},
+		{
+			"type": "UHD",
+			"url": "https://prasanth-snk.github.io/iptv/uhd.json"
+		},
+		{
+			"type": "Testing",
+			"url": "https://prasanth-snk.github.io/iptv/tamilLocalNW.m3u"
+		}
+	]
+}
