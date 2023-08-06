@@ -1,0 +1,64 @@
+{
+	"addProps": "hide",
+	"menu": [{
+			"type": "Malayalam IPTV",
+			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
+		},
+		{
+			"type": "Malayalam Satellite",
+			"url": "https://prasanth-snk.github.io/iptv/malayalam_satellite_tv.m3u"
+		},
+		{
+			"type": "Tamil IPTV",
+			"url": "https://iptv-org.github.io/iptv/languages/tam.m3u"
+		},
+		{
+			"type": "Tamil Satellite",
+			"url": "https://prasanth-snk.github.io/iptv/tamil_satellite_tv.m3u"
+		},
+		{
+			"type": "Tamil Local",
+			"url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
+		},
+		{
+			"type": "News",
+			"url": "https://prasanth-snk.github.io/youtube_m3u/youtube.m3u"
+		},
+		{
+			"type": "Sony-ott",
+			"url": "https://prasanth-snk.github.io/iptv/sony.m3u"
+		},
+		{
+			"type": "Star-ott",
+			"url": "https://prasanth-snk.github.io/iptv/star.m3u"
+		},
+		{
+			"type": "Others",
+			"url": "https://prasanth-snk.github.io/iptv/kids.m3u"
+		},
+		{
+			"type": "Category",
+			"url": "https://iptv-org.github.io/iptv/index.category.m3u"
+		},
+		{
+			"type": "Language",
+			"url": "https://iptv-org.github.io/iptv/index.language.m3u"
+		},
+		{
+			"type": "Country",
+			"url": "https://iptv-org.github.io/iptv/index.country.m3u"
+		},
+		{
+			"type": "Region",
+			"url": "https://iptv-org.github.io/iptv/index.region.m3u"
+		},
+		{
+			"type": "UHD",
+			"url": "https://prasanth-snk.github.io/iptv/uhd.json"
+		},
+		{
+			"type": "Testing",
+			"url": "https://prasanth-snk.github.io/iptv/testing.m3u"
+		}
+	]
+}
