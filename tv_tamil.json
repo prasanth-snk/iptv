@@ -1,6 +1,10 @@
 {
     "addProp": "show",
     "data": [
-        "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
+        "https://prasanth-snk.github.io/iptv/tamilLocal.m3u",
+        "https://iptv-org.github.io/iptv/languages/tam.m3u",
+        "https://prasanth-snk.github.io/youtube_m3u/tamil.m3u",
+        "https://prasanth-snk.github.io/iptv/sony.m3u",
+        "https://prasanth-snk.github.io/iptv/star.m3u"
     ]
 }
