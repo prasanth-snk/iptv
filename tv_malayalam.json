@@ -1,6 +1,9 @@
 {
     "addProp": "show",
     "data": [
-        "https://iptv-org.github.io/iptv/languages/mal.m3u"
+        "https://iptv-org.github.io/iptv/languages/mal.m3u",
+        "https://prasanth-snk.github.io/youtube_m3u/malayalam.m3u",
+        "https://prasanth-snk.github.io/iptv/sony.m3u",
+        "https://prasanth-snk.github.io/iptv/star.m3u"
     ]
 }
