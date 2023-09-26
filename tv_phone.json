@@ -2,6 +2,10 @@
 	"addProp": "show",
 	"menu": [
 		{
+			"type": "Tamil Local",
+			"url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
+		},
+		{
 			"type": "🇦🇫 Afghanistan",
 			"Channels": 30,
 			"url": "https://iptv-org.github.io/iptv/countries/af.m3u"

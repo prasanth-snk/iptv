@@ -216,10 +216,10 @@ https://live1.sscloud7.com/hls/vedhatv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",ATN media
 http://indiamatrix.in:80/atn/atn.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",பாமா 
+#EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",Bama 
 http://livematrix.in:80/bamahd/bamahd.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",தி நெல்லை டைம்ஸ்
+#EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",Nellai Times tv
 http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",K channel
