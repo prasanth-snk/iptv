@@ -25,3 +25,6 @@ https://delta14tatasky.akamaized.net/out/i/4779611.mpd
 #license-key={ "keys":[ { "kty":"oct", "k":"FdfWW+sm8HW+TsW2LY6fpQ", "kid":"sR3SW2KRWYaLd9XLTN2BKQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="463" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" ,Star Sports Select 2 HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Fashion",Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
