@@ -106,7 +106,7 @@ http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" group-title="Movie",Rasi Movies
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Movie",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
@@ -133,7 +133,7 @@ https://tamilstreams.in/tdcto/tdcto/index.m3u8
 http://tamilstreams.in/rasinetworks/rasilifestyle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="Local", Bala TV
-https://tamilstreams.in/balatv/balatv/index.m3u8
+https://s1.tamilstreams.in/balatv/balatv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://harisofttecch.in/tamillive/upload/1669958345_RTV.jpg" group-title="Local",R TV
 http://1cloud.digital/robert/rtvtrichy.m3u8
@@ -274,7 +274,7 @@ https://gvjygr2jloem-hls-live.5centscdn.com:443/shalini/live.stream/chunks.m3u8
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",AJANTHA TV
-https://tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
+https://s1.tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local" tvg-logo="",Sooriyan TV
 https://media1.radioservers.biz:1936/sooriyantv/sooriyantv/chunklist.m3u8
@@ -707,3 +707,6 @@ http://joshuatv.phoenixcreations.online:1935/joshuatv/joshuatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Local",SCV TV
 http://ipcloud.live:8080/scvtv/scv.m3u8
+
+#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Movies",OneMovies TV
+https://1cloud.digital/onetv/onemovies.m3u8
