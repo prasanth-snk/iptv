@@ -112,7 +112,7 @@ http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ydNm0T2/Picsart-23-05-28-13-38-52-975.jpg" group-title="Local",Ajantha TV 
-https://tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
+https://s1.tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Music",Rasi Music
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
@@ -121,16 +121,16 @@ http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Comedy",Rasi Comedy
-https://tamilstreams.in/rasinetworks/rasicomedy/index.m3u8
+https://s1.tamilstreams.in/rasinetworks/rasicomedy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.thanthitv.com/h-upload/2022/08/27/624177-appledigitalnew.webp" group-title="Local",Apple Digital
-https://tamilstreams.in/appledigital/appledigital/index.m3u8
+https://s1.tamilstreams.in/appledigital/appledigital/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local",TDCTO
-https://tamilstreams.in/tdcto/tdcto/index.m3u8
+https://s1.tamilstreams.in/tdcto/tdcto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Local",Rasi Lifestyle TV
-http://tamilstreams.in/rasinetworks/rasilifestyle/index.m3u8
+http://s1.tamilstreams.in/rasinetworks/rasilifestyle/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="Local", Bala TV
 https://s1.tamilstreams.in/balatv/balatv/index.m3u8
