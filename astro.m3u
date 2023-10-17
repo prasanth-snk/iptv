@@ -1,0 +1,25 @@
+#EXTM3U  Astro channels 
+#license-type=clearkey 
+#license-key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2i3TMUtbOpv3QkjagQy2zFL4Ei0ytKG-xXg&amp;usqp=CAU" group-title="Astro", Astro Vellithirai
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
+#license-type=clearkey
+#license-key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
+#EXTINF:-1 tvg-logo="https://iili.io/1NuZbI.png" group-title="Astro", Astro Vinmeen
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
+
+#license-type=clearkey
+#license-key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/251.png/revision/latest?cb=20200530143703https://i.imgur.com/WfAU7pB.png" group-title="Astro", Astro Box office
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons-dino/logos/VIJAY-SUPER.jpg" group-title="Astro", Astro VIJAY SUPER
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:24:e1:4a&stream=281621&extension=m3u8&play_token=Extar-Tv-Team
+
+#EXTINF:-1 tvg-logo="https://apiexcellent.com/images/television/product/mega-musiq-television10293.webp" group-title="Astro", Astro MEGA MUSIQ
+http://humiptv.live:8080/live/112233123/112233123/26164.ts
+
+
+#EXTINF:-1 tvg-logo="https://apiexcellent.com/images/television/product/mega-24-television10292.webp" group-title="Astro", Astro MEGA 24
+http://humiptv.live:8080/live/112233123/112233123/26163.ts
