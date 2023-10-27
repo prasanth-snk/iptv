@@ -165,15 +165,15 @@ http://singamcloud.in/abmtv/abmtv/index.m3u8
 
 #EXTM3U  1Cloud Developer Channels
 
-#EXTINF:-1 tvg-logo="" group-title="1Cloud", Tiruchengodehd TV
+#EXTINF:-1 tvg-logo="" group-title="Cloud", Tiruchengodehd TV
 rtmp://1cloud.digital/tiruchengode/tiruchengodehd
-#EXTINF:-1 tvg-logo="" group-title="1Cloud", JSP TV
+#EXTINF:-1 tvg-logo="" group-title="Cloud", JSP TV
 rtmp://103.88.77.238:1936/jsp4k/jsp4k?psk=123456
-#EXTINF:-1 tvg-logo="" group-title="1Cloud", Vanavil TV
+#EXTINF:-1 tvg-logo="" group-title="Cloud", Vanavil TV
 rtmp://1cloud.digital/vanavil/vanaviltv
-#EXTINF:-1 tvg-logo="" group-title="1Cloud", CTN TV
+#EXTINF:-1 tvg-logo="" group-title="Cloud", CTN TV
 rtmp://hdserver.7starcloud.com:1935/ctn/live
-#EXTINF:-1 tvg-logo="" group-title="1Cloud", Polimer TV
+#EXTINF:-1 tvg-logo="" group-title="Cloud", Polimer TV
 rtmp://hdserver.7starcloud.com:1935/polimer/live
 
 
