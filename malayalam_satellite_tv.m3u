@@ -21,6 +21,6 @@ https://9dc1.short.gy/Zee_Kerala_HD.m3u8
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 
 #license-type=clearkey
-#license-key=https://tsneh-auth.vercel.app/api/tsauth?id=294
+#license-key={ "keys":[ { "kty":"oct", "k":"R8x/ZEsvHbcrpht5dUgbIw", "kid":"+NisDIBAVA2kpXpaLVmnWQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="294" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" ,Asianet Plus
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
