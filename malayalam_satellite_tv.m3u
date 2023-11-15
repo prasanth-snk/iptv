@@ -27,16 +27,16 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifes
 
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"Pt1VOSVCq+I/jrUX/X4GQg", "kid":"JIaubUhFT+qX9itQdjthNg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="230" group-title=" Regional Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" ,Surya TV
+#EXTINF:-1 tvg-id="230" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" ,Surya TV
 https://delta15tatasky.akamaized.net/out/i/5147850.mpd
 
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"PyZxHl7ZFu3tzvrL44khwg", "kid":"le+ddkenS/qhBPgGEVjlyA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="229" group-title=" Regional Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" ,Surya Movies
+#EXTINF:-1 tvg-id="229" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" ,Surya Movies
 https://delta15tatasky.akamaized.net/out/i/5145962.mpd
 
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"eVx9Fhx/vqSAuEExrLWk0g", "kid":"0IiBe1GdWMSR6iv6WDOILg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="293" group-title=" Regional Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" ,Asianet Movies
+#EXTINF:-1 tvg-id="293" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" ,Asianet Movies
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
 
