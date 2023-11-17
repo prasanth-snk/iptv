@@ -16,7 +16,7 @@ http://live.singamcloud.in/nvision/nvision/index.m3u8
 https://9dc1.short.gy/Zee_Kerala_HD.m3u8
 
 #license-type=clearkey
-#license-key={ "keys":[ { "kty":"oct", "k":"7y1GmDcEAwGPQb+2s/0Ufg", "kid":"r6EW3eEaWwiCQEIwhUYWvg" } ], "type":"temporary" }
+#license-key={ "keys":[ { "kty":"oct", "k":"vAqqVC4GsYFv6oOzDSa+LA", "kid":"r6EW3eEaWwiCQEIwhUYWvg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="292" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" ,Asianet HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 
@@ -25,12 +25,12 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifes
 #EXTINF:-1 tvg-id="294" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" ,Asianet Plus
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
 
-#license-type=clearkey
-#license-key=https://techiesneh-auth.vercel.app/api/tsauth?id=294
-#EXTINF:-1 tvg-id="ts294" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png" group-title="TSneh Regional Malayalam",Asianet Plus
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd
+#license-type=clearkey#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"l2kDM2Q/YQcV8WfmC2iCbA", "kid":"0IiBe1GdWMSR6iv6WDOILg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="293" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" ,Asianet Movies
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
 
-#license-type=clearkey
+
 #license-key={ "keys":[ { "kty":"oct", "k":"Pt1VOSVCq+I/jrUX/X4GQg", "kid":"JIaubUhFT+qX9itQdjthNg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="230" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png" ,Surya TV
 https://delta15tatasky.akamaized.net/out/i/5147850.mpd
@@ -40,8 +40,4 @@ https://delta15tatasky.akamaized.net/out/i/5147850.mpd
 #EXTINF:-1 tvg-id="229" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" ,Surya Movies
 https://delta15tatasky.akamaized.net/out/i/5145962.mpd
 
-#license-type=clearkey
-#license-key={ "keys":[ { "kty":"oct", "k":"eVx9Fhx/vqSAuEExrLWk0g", "kid":"0IiBe1GdWMSR6iv6WDOILg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="293" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png" ,Asianet Movies
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
 
