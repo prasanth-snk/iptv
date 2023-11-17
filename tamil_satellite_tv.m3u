@@ -7,3 +7,19 @@ https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f
 #license-key={ "keys":[ { "kty":"oct", "k":"zZtGB09S+HT4+NpGeg8rwQ", "kid":"bCuwvQEZQNySDcDi2vf4GA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="496" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" ,Star Vijay HD
 https://delta12tatasky.akamaized.net/out/i/3562165.mpd
+
+
+
+#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"dtnFzjDMDca9VOP3MRtCoQ", "kid":"Gbpe/Nn1WjasioLKyR3n+w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="521" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" ,Sun TV HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+
+ 
+
+#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"avPUxz5YuAkz2SyCKbxZdw", "kid":"UwgwvYnUUSqtZsjs1S4LwA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" ,Sun Life
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
+
+ 

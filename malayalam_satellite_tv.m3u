@@ -12,8 +12,10 @@ https://singamcloud.in/skytv/skytv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="J-Entertainment",N Vision
 http://live.singamcloud.in/nvision/nvision/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785" group-title="Entertainment",Zee Kerala HD
-https://9dc1.short.gy/Zee_Kerala_HD.m3u8
+#license-type=clearkey
+#license-key={ "keys":[ { "kty":"oct", "k":"18XI50fGnmiqqpMDrdeQsg", "kid":"D/30m9ejVtqoVn2Xh7jqkQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="694" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png" ,Zee Keralam HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd
 
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"vAqqVC4GsYFv6oOzDSa+LA", "kid":"r6EW3eEaWwiCQEIwhUYWvg" } ], "type":"temporary" }
