@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="Local",BS HD TV 
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/09/vijaysu.webp" group-title="Entertainment",Vijay Super HD
+http://16919-near.cloud-ott.me:80/play/live.php?mac=00:1A:79:5C:D2:48&stream=1097660&extension=ts&play_token=hlurMM5PX0
+
 #license-type=clearkey
 #license-key={ "keys":[ { "kty":"oct", "k":"zZtGB09S+HT4+NpGeg8rwQ", "kid":"bCuwvQEZQNySDcDi2vf4GA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="496" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" ,Star Vijay HD

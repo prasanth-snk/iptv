@@ -944,8 +944,6 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
 #EXTM3U International
 
-#EXTINF:-1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/09/vijaysu.webp" group-title="International",Vijay Super HD
-http://16919-near.cloud-ott.me:80/play/live.php?mac=00:1A:79:5C:D2:48&stream=1097660&extension=ts&play_token=hlurMM5PX0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="International",3 TAMIL 
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BrAIDIBktSH53CxnKpWi1nKHI5cIYjfe485eSQ2kSUzjbAY0hARu0x_bCi6eu5HGJdU&usqp=CAU" group-title="International",Shakthi TV
