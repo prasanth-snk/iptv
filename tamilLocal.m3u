@@ -78,6 +78,8 @@ https://s1.tamilstreams.in/7starnetwork/runtv/index.m3u8
 http://ipcloud.live:8080/leotv/leotvhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fdurai%20tv.png?alt=media&token=a9cb48e8-9a52-4a0f-98fe-1bb9c7667ee7" group-title="Local",Durai TV Tenkasi
 http://ipcloud.live:8080/duraitv/live.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2F3-star-tv.png?alt=media&token=01891553-a24c-45c8-a650-51c91e260ac4" group-title="Local",3STAR TV
+http://ipcloud.live:8080/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2FKNR-MAX.png?alt=media&token=3aaf998d-97b1-4210-afa9-3d6864d2c99d" group-title="Local",KNR MAX TV
 http://ipcloud.live:8080/knrtv/knrmax.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fpkt-media.png?alt=media&token=65df4156-aefa-41e8-8616-6d7f6cbbb492" group-title="Local",PKT Media TV
@@ -102,18 +104,20 @@ https://ipcloud.live/deltatv/deltahd.m3u8
 https://ipcloud.live/mtv/menhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fyogaa-tv.png?alt=media&token=ce543fc6-dde3-482f-a0ac-5e1772913055" group-title="Local",Yogaa TV
 http://ipcloud.live:8080/yogaatv/yogaatv.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FAKASH-TV.png?alt=media&token=8292f92e-e1df-4ae4-b660-092ca4a1f910" group-title="Local",AKASH TV 
+https://ipcloud.live/akashtv/akashtvhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fsubam-tv.png?alt=media&token=8ea9c342-2879-41fb-bf8a-11a79bba8637" group-title="Local",Subam TV
 http://ipcloud.live:8080/balu/subamtv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fudhayam-tv.png?alt=media&token=969dab16-7d01-4f8d-a99d-6b27c564c2ac" group-title="Local",Udhaiyam TV
 http://ipcloud.live:8080/udhaiyamtv/udhaiyamhd.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FAS-MEDIA.png?alt=media&token=6bad7045-5090-4f2d-9d4d-89687eb25df5" group-title="Local",AS Media
+https://ipcloud.live/asmedia/asmedia.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IeIaCvqJwuinzGQUFhY18PPxQip0JmPoRJ3_jy11b1pkB9ztitJYpWGgLNEk8VLfd6I=w240-h480-rw" group-title="Local",Velur TV
 https://1cloud.digital/bass/velurtv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hNKjragyZiADLiGWjE6UY3lKPxfFkWf5I-7a1YfK_vCRaWbLGQg90L9SX85GC8J9R70=w240-h480-rw" group-title="Local",Agni TV
 https://1cloud.digital/bass/agnitv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eWdjVCKa2toEdIOj9Ydxs7pduB-LDSp-FYB0OPd3OLd7sQbUOH9ArsLdLUsr4OFwBMg=w240-h480-rw" group-title="Local",Amirtha TV
 http://ipcloud.live:8080/amirthatvhd/live.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2F3-star-tv.png?alt=media&token=01891553-a24c-45c8-a650-51c91e260ac4" group-title="Local",3STAR TV
-http://ipcloud.live:8080/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TV.png?alt=media&token=5033fdb8-69d0-4682-9a52-1657a4e27736" group-title="Local",CTN TV
 https://ipcloud.live/ctn/ctn.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TAMIL.png?alt=media&token=e8639c32-2db2-4500-8e9c-a6e575595205" group-title="Local",CTN Tamil TV
@@ -170,11 +174,9 @@ https://cloudstreamer.site/karnan/bharathitv.m3u8
 https://cloudstreamer.site/karnan/gtv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/VAANAVIL-TV.png?alt=media&token=7766c7cd-85e2-4f82-9a8e-2289cce486e5" group-title="Local",Vaanavil TV
 https://cloudstreamer.site/karnan/vanaviltv.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GuMzHs5Lhz4S0tnfIL2PlWPQctAD_kaKr7_qSw9FJwa0oQk3N94yDOgb5Jy-VQSIn_k=w480-h960-rw" group-title="Local", AS Media TV
-rtmp://1cloud.digital/asmedia/asmedia
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb-4c13369e44c7" group-title="Local",CTN Magalir TV
 https://ipcloud.live/ctn/magalirtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local", CTN TV
+#EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/salem/b2/0427px424.x424.120430161917.h7b2/catalogue/ctn-channel-salem-a-r-lines-salem-satellite-channels-0kvxdl4aab.jpg" group-title="Local", CTN TV
 rtmp://hdserver.7starcloud.com:1935/ctn/live
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PpUoRb_XKXdJoI4LIbFKhtiMI7kYOxOyURENCtaMOlYewn8C-JxidsK4NFfDASRB05s" group-title="Local", Polimer TV
 rtmp://hdserver.7starcloud.com:1935/polimer/live
@@ -597,13 +599,6 @@ http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTM3U TLL Hollywood
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Hollywood",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
@@ -615,20 +610,10 @@ rtmp://1cloud.digital:1935/onetv/onehollywood
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w240-h480-rw" group-title="Local", Dark  TV 
 http://applelive.in/darktv/darktv.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YmttwLnlkfDxrIDLxMHoHCDiPkjzEmpTkBiIPOyTY7k_sn66uHX_v3cwryxtt4S9oAQ=w240-h480-rw" group-title="Local", Image TV 
+http://eagletv.applelive.in/aonetv/aonetv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/V0n9jJDQba8PejGd5sFNrcAojqsdARrcjWIGrfb7J61hRFoxhPGVT0lR95tyfm4IvyzM=w240-h480-rw" group-title="Local", Rplus  TV 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ODxhB9g0MFR0-yVfFWrHDrMu2WcsACLWcSpQE3X2GGErTxZ58JyVeJmKZZXIPALTNems=w480-h960-rw" group-title="Local", Sanagamam TV
 http://cloud.applelive.in/hls/rplustv.m3u8
-rtmp://1cloud.digital:1935/live/sanagamamtv
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVoRtd6VqDuFrwlSYcxIobahLe8DCAyQU4n7GvG4eUQtMaQnPyJukMBXseGo9YmRkQY=w240-h480-rw" group-title="Local", Malathi TV
-https://1cloud.digital/malathitv/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local", Janagai TV
-https://1cloud.digital/janagai/janagaihd.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N-kGQMH6GmcOzlBau2COnBtf_p9kv3_d6uqs2ayeF8j_fEaZjjsqDEYsR5GsrY0Hyg=w240-h480-rw" group-title="Local", Neelamalai TV
-https://1cloud.digital/nmtv/nmtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local", G TV
-rtmp://1cloud.digital:1935/karnan/gtv
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361630_barathi.jpg" group-title="Local", Bharathi TV
-https://1cloud.digital/karnan/bharathitv/live.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="Local",SRI SHIVA SHAKTHI TV
 https://live.sscloud7.com/hls/ssstv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="Local",Vetri Media TV
@@ -649,10 +634,6 @@ http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
 http://applelive.in/jctv/jctv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g964xZTdGsymtYTJ4u2-glx7yfScPueaE9CiZ9rD-rTssqYW1SyocfxCYikuEdSlL_cS=w240-h480-rw" group-title="Local", VTV
 https://1cloud.digital/vtv/vtvtgp.m3u8	
-#EXTINF:-1 tvg-logo="" group-title="Local", Vanavil TV
-rtmp://1cloud.digital:1935/karnan/vanaviltv
-#EXTINF:-1 tvg-logo="" group-title="Local", Ammu TV
-http://1cloud.digital/karnan/ammutv/live.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/qz8AxsO48y1JTMINDwFEgU383G9bfFborWRQmliMey0qhNKw9i1yli4Nh67X6l4ekA=w240-h480-rw" group-title="Local", THULIR HD 
 http://live.singamcloud.in/Thulirtv/thulirtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aN0r1f5iSFIY2tgtk3WTBFY_-l8lFhOK2vYLF13YYVI1xkh5gdQlSbK6g3Th72e1snk=w240-h480-rw" group-title="Local", Sakthi TV
@@ -841,8 +822,6 @@ http://ser1.applelive.in/rowthiramtv/rowthiramtv.m3u8
 http://bmlive.net:8000/visiontv/visiontv/bms.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="Local", G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctn.png" group-title="Local", CTN TV
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="Local", CTN(Connor)
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Annai TV
@@ -851,10 +830,6 @@ http://annaitv.livebox.co.in/annailivehls/live.m3u8
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="Local", Reach TV
-http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
-#EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/THENDRAL1.png?alt=media&token=f24c6a18-ec72-44b4-86db-a81791b4c5bf" group-title="Local", Thendral1 TV 
-https://1cloud.digital/Thentralaathi/thendral1.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="Local", Webadunga TV 
 https://account21.livebox.co.in/webadugatvhls/live.m3u8
 
@@ -982,6 +957,54 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/7d4b04111e8149cf73a54550b7eb4
 
 
 #EXTM3U Testing
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TRUE 4K TAMIL MOVIES 
+http://itspkg.tk/167/play.php?tv=59950
+#EXTINF:-1 tvg-logo="" group-title="Testing", BIGG BOSS 24x7 (Tamil) 
+http://itspkg.tk/167/play.php?tv=58131
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TAMIL MOVIES 1 
+http://itspkg.tk/167/play.php?tv=45589
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TAMIL MOVIES 2 
+http://itspkg.tk/167/play.php?tv=45599
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TAMIL MOVIES 3 
+http://itspkg.tk/167/play.php?tv=45609
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TAMIL MOVIES 4 
+http://itspkg.tk/167/play.php?tv=45619
+#EXTINF:-1 tvg-logo="" group-title="Testing", 24/7 | TAMIL MOVIES 5 
+http://itspkg.tk/167/play.php?tv=45629
+#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 24×7 movies TV 
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019905&extension=ts&play_token=vEbCYQjngc
+#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 2
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019914&extension=ts&play_token=gxeFvMySVm
+#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 3
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019906&extension=ts&play_token=9HWFIFMXGF 
+#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 4
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1019907&extension=ts&play_token=ns71BJPPra
+#EXTINF:-1 tvg-logo="" group-title="Testing", Tamil premier 5
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1024831&extension=ts&play_token=GfFKcgU1zZ 
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 1
+http://starshare.live:8080/live/7878/7878/242777.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 2
+http://starshare.live:8080/live/7878/7878/121315.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 3
+http://starshare.live:8080/live/7878/7878/136398.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 4
+http://starshare.live:8080/live/7878/7878/242778.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 5
+http://starshare.live:8080/live/7878/7878/242779.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 6
+http://starshare.live:8080/live/7878/7878/242780.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 7
+http://starshare.live:8080/live/7878/7878/242781.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 8
+http://starshare.live:8080/live/7878/7878/242782.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 9
+http://starshare.live:8080/live/7878/7878/242783.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 10
+http://starshare.live:8080/live/7878/7878/242784.ts
+#EXTINF:-1 tvg-logo="" group-title="Testing", Star share 11
+http://starshare.live:8080/live/7878/7878/242785.ts
+
+
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/kzU4uEFBum4JjKpZ6" group-title="Testing", Asritha TV 
 http://applelive.in/asrithatv/asrithatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="Testing",DCN TV
