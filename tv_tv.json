@@ -25,6 +25,10 @@
 			"url": "https://prasanth-snk.github.io/iptv/tamilLocal.m3u"
 		},
 		{
+			"type": "Tamil Testing",
+			"url": "https://prasanth-snk.github.io/iptv/tamilLocalTesting.m3u"
+		},
+		{
 			"type": "Tamil News",
 			"url": "https://prasanth-snk.github.io/youtube_m3u/tamil.m3u"
 		},
