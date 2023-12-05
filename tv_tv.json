@@ -1,5 +1,6 @@
 {
-	"addProps": "hide",
+	"addProp": "show",
+	"addProps": "show",
 	"menu": [{
 			"type": "Malayalam IPTV",
 			"url": "https://iptv-org.github.io/iptv/languages/mal.m3u"
