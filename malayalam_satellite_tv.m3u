@@ -42,4 +42,9 @@ https://delta15tatasky.akamaized.net/out/i/5147850.mpd
 #EXTINF:-1 tvg-id="229" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" ,Surya Movies
 https://delta15tatasky.akamaized.net/out/i/5145962.mpd
 
+#license-type=com.widevine.alpha
+#license-key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000245&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMjk3Nzc1ODgyIiwiaXNlIjp0cnVlLCJqdGkiOiJmZmIwYmRmNC03ZDZiLTQyZTktYTQyYS00ZTYyZTBlOTZjYTQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzAyMjQyNzI3LCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNzAyMTU2MzI3LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.w6KTu6J9l6n2uruSlfjvCZYSTf-EWRyYIrTvLJab3is
+#EXTINF:-1 tvg-id="ts229" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png" group-title="TSneh Regional Malayalam",Surya Movies
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
+
 
