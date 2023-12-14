@@ -1,12 +1,11 @@
 {
     "addProp": "show",
     "data": [
-        "https://live-iptv.github.io/iptv/tamilLocal.m3u",
         "https://iptv-org.github.io/iptv/languages/tam.m3u",
         "https://live-iptv.github.io/youtube_live/tamil.m3u",
         "https://live-iptv.github.io/iptv/sony.m3u",
         "https://live-iptv.github.io/iptv/star.m3u",
         "https://live-iptv.github.io/iptv/tamil_satellite_tv.m3u",
-        "https://live-iptv.github.io/iptv/tamilLocalTesting.m3u"
+        "https://live-iptv.github.io/iptv/tamil/tamil_local.m3u"
     ]
 }
