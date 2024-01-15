@@ -518,6 +518,10 @@
 			"url": "https://iptv-org.github.io/iptv/subdivisions/co-sap.m3u"
 		  },
 		  {
+			"type": "Tolima",
+			"url": "https://iptv-org.github.io/iptv/subdivisions/co-tol.m3u"
+		  },
+		  {
 			"type": "Valle del Cauca",
 			"url": "https://iptv-org.github.io/iptv/subdivisions/co-vac.m3u"
 		  },
