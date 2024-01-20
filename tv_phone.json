@@ -2,8 +2,12 @@
 	"addProp": "show",
 	"menu": [
 		{
-			"type": "Tamil Local",
+			"type": "Tamil",
 			"url": "https://live-iptv.github.io/iptv/tamil/tamil_local_copy.m3u"
+		},
+		{
+			"type": "Malayalam",
+			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_local.m3u"
 		},
 		{
 			"type": "🇦🇫 Afghanistan",
