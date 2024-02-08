@@ -1418,6 +1418,10 @@
 			"url": "https://iptv-org.github.io/iptv/subdivisions/pe-sam.m3u"
 		  },
 		  {
+			"type": "Ucayali",
+			"url": "https://iptv-org.github.io/iptv/subdivisions/pe-uca.m3u"
+		  },
+		  {
 			"type": "🇵🇭 Philippines",
 			"url": "https://iptv-org.github.io/iptv/countries/ph.m3u"
 		  },
@@ -1956,6 +1960,10 @@
 		  {
 			"type": "Oklahoma",
 			"url": "https://iptv-org.github.io/iptv/subdivisions/us-ok.m3u"
+		  },
+		  {
+			"type": "Oregon",
+			"url": "https://iptv-org.github.io/iptv/subdivisions/us-or.m3u"
 		  },
 		  {
 			"type": "Pennsylvania",

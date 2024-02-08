@@ -30,10 +30,6 @@
 			"url": "https://live-iptv.github.io/iptv/sony.m3u"
 		},
 		{
-			"type": "Star-ott",
-			"url": "https://live-iptv.github.io/iptv/star.m3u"
-		},
-		{
 			"type": "Others",
 			"url": "https://live-iptv.github.io/iptv/kids.m3u"
 		},

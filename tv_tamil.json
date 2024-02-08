@@ -4,8 +4,9 @@
         "https://iptv-org.github.io/iptv/languages/tam.m3u",
         "https://live-iptv.github.io/youtube_live/tamil.m3u",
         "https://live-iptv.github.io/iptv/sony.m3u",
-        "https://live-iptv.github.io/iptv/star.m3u",
         "https://live-iptv.github.io/iptv/tamil/tamil_satellite.m3u",
-        "https://live-iptv.github.io/iptv/tamil/tamil_local.m3u"
+        "https://live-iptv.github.io/iptv/tamil/tamil_local.m3u",
+        "https://live-iptv.github.io/iptv/xxx/others.m3u",
+        "https://live-iptv.github.io/iptv/kids.m3u"
     ]
 }
