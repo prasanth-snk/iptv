@@ -822,6 +822,10 @@
 			"url": "https://iptv-org.github.io/iptv/countries/is.m3u"
 		  },
 		  {
+			"type": "🇮🇳 India",
+			"url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+		  },
+		  {
 			"type": "🇮🇩 Indonesia",
 			"url": "https://iptv-org.github.io/iptv/countries/id.m3u"
 		  },
