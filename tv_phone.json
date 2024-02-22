@@ -10,6 +10,10 @@
 			"url": "https://live-iptv.github.io/iptv/malayalam/malayalam_local.m3u"
 		},
 		{
+			"type": "Movies",
+			"url": "https://live-iptv.github.io/iptv/movies.m3u"
+		},
+		{
 			"type": "🇦🇫 Afghanistan",
 			"url": "https://iptv-org.github.io/iptv/countries/af.m3u"
 		  },
