@@ -56,6 +56,14 @@
 		{
 			"type": "Testing",
 			"url": "https://live-iptv.github.io/iptv/testing.m3u"
+		},
+		{
+			"type": "Movies",
+			"url": "https://live-iptv.github.io/iptv/movies.m3u"
+		},
+		{
+			"type": "Netflix",
+			"url": "https://live-iptv.github.io/iptv/netflix.m3u"
 		}
 	]
 }
