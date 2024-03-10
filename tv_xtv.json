@@ -3,9 +3,9 @@
     "version" : 10,
     "appLink": "https://drive.google.com/u/0/uc?id=1_45uWylv7BrLlAnzUYwN3eCnoYvD6zw9&export=download",
     "data": [
-        "https://iptv-org.github.io/iptv/categories/xxx.m3u",
+        "https://live-iptv.github.io/iptv/xxx/live_tv.m3u",
         "https://live-iptv.github.io/iptv/xxx/xxxx.m3u",
-        "https://live-iptv.github.io/iptv/xxx/videos.m3u",
-        "https://live-iptv.github.io/iptv/xxx/phub.m3u"
+        "https://live-iptv.github.io/iptv/xxx/xxx_japan.m3u",
+        "https://live-iptv.github.io/iptv/xxx/videos.m3u"
     ]
 }
